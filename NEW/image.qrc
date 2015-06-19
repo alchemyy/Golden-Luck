@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/myimage">
+        <file>hongbao.png</file>
+        <file>0.5dollar.png</file>
+        <file>1dollar.png</file>
+        <file>50cent_canada.png</file>
+        <file>500eng_japan.png</file>
+        <file>europe_2eur.png</file>
+        <file>Korean_500yuan.png</file>
+        <file>RMB1yuan.png</file>
+        <file>Russian_5rouble.png</file>
+        <file>loginimage.png</file>
+        <file>golden_luck.png</file>
+        <file>welcome2.png</file>
+        <file>lotterybackgr.png</file>
+        <file>aus5-Dollars.png</file>
+        <file>aus50.png</file>
+        <file>eng1pound.png</file>
+        <file>ind1rubee.png</file>
+        <file>malai50sen.png</file>
+        <file>mexico20bisuo.png</file>
+        <file>vie5000dong.png</file>
+        <file>RANK.png</file>
+        <file>rank2.png</file>
+    </qresource>
+</RCC>
