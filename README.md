@@ -1,4 +1,4 @@
-### Golden Luck -- A 'grab lucky money' game based on QT
+### Golden Luck -- 'Grab Lucky Money' Game Based On QT
 
 **Login ：**
 
